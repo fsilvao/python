@@ -1,5 +1,4 @@
 # Vision Artificial
-#### Profesor: Juan Manuel Barrios
 #### Fecha: 11 de septiembre de 2023
 
 -----------------------------------------------
